@@ -1,29 +1,7 @@
-# vue-cli-docker
+# Docker Vue-CLI
 
-## Project setup
-```
-npm install
-```
+A docker image for using @vue/cli in docker.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Usage
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See the docker-compose.yml file for an example. Just copy the details from that file into your own docker-compose.yml file.
